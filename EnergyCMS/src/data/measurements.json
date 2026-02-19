@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2026-01-27",
+        "deviceId": 1,
+        "id": 1,
+        "measurementType": "GAS",
+        "measurementUnit": "kWh",
+        "userId": 1,
+        "value": 12.45
+    },
+    {
+        "date": "2026-01-09",
+        "deviceId": 3,
+        "id": 2,
+        "measurementType": "ELECTRICITY",
+        "measurementUnit": "kWh",
+        "userId": 2,
+        "value": 1.20
+    },
+    {
+        "date": "2025-11-20",
+        "deviceId": 2,
+        "id": 3,
+        "measurementType": "ELECTRICITY",
+        "measurementUnit": "kWh",
+        "userId": 3,
+        "value": 45.60
+    },
+    {
+        "date": "2025-12-27",
+        "deviceId": 4,
+        "id": 4,
+        "measurementType": "ELECTRICITY",
+        "measurementUnit": "kWh",
+        "userId": 4,
+        "value": 3.45
+    },
+    {
+        "date": "2025-05-12",
+        "deviceId": 5,
+        "id": 5,
+        "measurementType": "ELECTRICITY",
+        "measurementUnit": "kWh",
+        "userId": 5,
+        "value": 8.90
+    },
+    {
+        "date": "2026-02-03",
+        "deviceId": 11,
+        "id": 6,
+        "measurementType": "ELECTRICITY",
+        "measurementUnit": "A",
+        "userId": 6,
+        "value": 3
+    }
+]

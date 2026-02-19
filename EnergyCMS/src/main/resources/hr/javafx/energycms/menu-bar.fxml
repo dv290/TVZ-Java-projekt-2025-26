@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.javafx.energycms.controllers.MenuController">
+  <menus>
+    <Menu mnemonicParsing="false" text="Measurements">
+      <items>
+            <MenuItem mnemonicParsing="false" onAction="#showMeasurementsList" text="Measurements list" />
+        <MenuItem mnemonicParsing="false" onAction="#showAddNewMeasurement" text="Add new" />
+      </items>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Devices">
+      <items>
+        <MenuItem mnemonicParsing="false" onAction="#showDevicesList" text="Devices list" />
+            <MenuItem mnemonicParsing="false" onAction="#showAddNewDevice" text="Add new" />
+            <MenuItem onAction="#showEditStandardDevice" mnemonicParsing="false" text="Edit Standard Device" />
+            <MenuItem onAction="#showEditSmartDevice" mnemonicParsing="false" text="Edit Smart Device" />
+      </items>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Users">
+      <items>
+        <MenuItem mnemonicParsing="false" onAction="#showUsersList" text="Users list" />
+            <MenuItem mnemonicParsing="false" onAction="#showAddNewUser" text="Add new" />
+            <MenuItem onAction="#showEditUsers" mnemonicParsing="false" text="Edit" />
+      </items>
+    </Menu>
+    <Menu mnemonicParsing="false" text="Start">
+      <items>
+        <MenuItem onAction="#showStartScreen" text="Start screen" />
+      </items>
+    </Menu>
+  </menus>
+</MenuBar>

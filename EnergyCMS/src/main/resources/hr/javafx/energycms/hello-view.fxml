@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="TOP_CENTER" minHeight="800.0" minWidth="800.0" prefHeight="800.0" prefWidth="800.0" spacing="20.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.javafx.energycms.controllers.HelloController">
+    <fx:include source="menu-bar.fxml" />
+   <Label cache="true" style="-fx-background-color: #D3D3D3;" text="Energy Consumption Management System" textAlignment="CENTER">
+      <font>
+         <Font name="Cascadia Mono Regular" size="34.0" />
+      </font>
+      <effect>
+         <Blend />
+      </effect>
+      <VBox.margin>
+         <Insets top="30.0" />
+      </VBox.margin>
+      <padding>
+         <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+      </padding>
+   </Label>
+   <Label fx:id="lastUserLabel" text="Zadnji Korisnik">
+      <VBox.margin>
+         <Insets top="60.0" />
+      </VBox.margin>
+      <font>
+         <Font size="14.0" />
+      </font>
+   </Label>
+   <Label text="Dino Vlaisavljević 2026." textFill="#00000080">
+      <VBox.margin>
+         <Insets top="520.0" />
+      </VBox.margin>
+   </Label>
+    <padding>
+        <Insets bottom="0.0" left="0.0" right="0.0" top="0.0" />
+    </padding>
+</VBox>

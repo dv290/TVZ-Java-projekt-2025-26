@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Gorenje Stednjak",
+    "deviceType": "KITCHEN_APPLIANCES",
+    "powerRating": 3000,
+    "isOn": false,
+    "dType": "STANDARD",
+    "numberOfControlKnobs": 4,
+    "energyEfficiencyClass": "B"
+  },
+  {
+    "id": 2,
+    "name": "Bosch Perilica Rublja",
+    "deviceType": "LAUNDRY_CLEANING",
+    "powerRating": 2200,
+    "isOn": true,
+    "dType": "STANDARD",
+    "numberOfControlKnobs": 3,
+    "energyEfficiencyClass": "A"
+  },
+  {
+    "id": 3,
+    "name": "Pegla",
+    "deviceType": "HOUSE_APPLIANCES",
+    "powerRating": 2000,
+    "isOn": false,
+    "dType": "STANDARD",
+    "numberOfControlKnobs": 1,
+    "energyEfficiencyClass": "C"
+  },
+  {
+    "id": 4,
+    "name": "Toster",
+    "deviceType": "KITCHEN_APPLIANCES",
+    "powerRating": 800,
+    "isOn": true,
+    "dType": "STANDARD",
+    "numberOfControlKnobs": 2,
+    "energyEfficiencyClass": "A"
+  },
+  {
+    "id": 5,
+    "name": "Usisavac",
+    "deviceType": "HOUSE_APPLIANCES",
+    "powerRating": 1600,
+    "isOn": false,
+    "dType": "STANDARD",
+    "numberOfControlKnobs": 1,
+    "energyEfficiencyClass": "D"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Frizider",
+    "deviceType": "WHITE_ELECTRONICS",
+    "powerRating": 150,
+    "isOn": true,
+    "dType": "SMART",
+    "operatingSystem": "TizenOS",
+    "ipAddress": "192.168.1.10",
+    "connectivityStrength": 85
+  },
+  {
+    "id": 7,
+    "name": "Daikin AC",
+    "deviceType": "AIR_CONDITIONING",
+    "powerRating": 2500,
+    "isOn": false,
+    "dType": "SMART",
+    "operatingSystem": "Daikin Cloud",
+    "ipAddress": "192.168.1.11",
+    "connectivityStrength": 90
+  },
+  {
+    "id": 8,
+    "name": "Sony OLED TV",
+    "deviceType": "ELECTRONICS",
+    "powerRating": 120,
+    "isOn": true,
+    "dType": "SMART",
+    "operatingSystem": "Android TV",
+    "ipAddress": "192.168.1.12",
+    "connectivityStrength": 95
+  },
+  {
+    "id": 9,
+    "name": "Gaming PC",
+    "deviceType": "IT",
+    "powerRating": 600,
+    "isOn": true,
+    "dType": "SMART",
+    "operatingSystem": "Windows 11",
+    "ipAddress": "192.168.1.13",
+    "connectivityStrength": 100
+  },
+  {
+    "id": 10,
+    "name": "Tesla Zidni Punjac",
+    "deviceType": "ELECTRIC_CHARGING",
+    "powerRating": 11000,
+    "isOn": false,
+    "dType": "SMART",
+    "operatingSystem": "Tesla OS",
+    "ipAddress": "192.168.1.14",
+    "connectivityStrength": 80
+  }
+]

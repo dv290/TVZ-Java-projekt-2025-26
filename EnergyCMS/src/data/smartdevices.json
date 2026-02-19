@@ -1,0 +1,79 @@
+[
+    {
+        "dType": "SMART",
+        "deviceType": "WHITE_ELECTRONICS",
+        "id": 6,
+        "name": "Samsung Frizider",
+        "on": true,
+        "powerRating": 150,
+        "connectivityStrength": 85,
+        "ipAddress": "192.168.1.10",
+        "operatingSystem": "TizenOS"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "AIR_CONDITIONING",
+        "id": 7,
+        "name": "Daikin AC",
+        "on": false,
+        "powerRating": 2500,
+        "connectivityStrength": 90,
+        "ipAddress": "192.168.1.11",
+        "operatingSystem": "Daikin Cloud"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "ELECTRONICS",
+        "id": 8,
+        "name": "Sony OLED TV",
+        "on": false,
+        "powerRating": 120,
+        "connectivityStrength": 95,
+        "ipAddress": "192.168.1.12",
+        "operatingSystem": "Android TV"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "IT",
+        "id": 9,
+        "name": "Gaming PC",
+        "on": false,
+        "powerRating": 600,
+        "connectivityStrength": 100,
+        "ipAddress": "192.168.1.13",
+        "operatingSystem": "Windows 11"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "ELECTRIC_CHARGING",
+        "id": 10,
+        "name": "Tesla Zidni Punjac",
+        "on": false,
+        "powerRating": 11000,
+        "connectivityStrength": 80,
+        "ipAddress": "192.168.1.14",
+        "operatingSystem": "Tesla OS"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "IT",
+        "id": 11,
+        "name": "iPhone 40",
+        "on": true,
+        "powerRating": 20,
+        "connectivityStrength": 67,
+        "ipAddress": "iOS",
+        "operatingSystem": "192.192.192.192"
+    },
+    {
+        "dType": "SMART",
+        "deviceType": "IT",
+        "id": 14,
+        "name": "NASA Supercomputer",
+        "on": true,
+        "powerRating": 60,
+        "connectivityStrength": 80,
+        "ipAddress": "Linux",
+        "operatingSystem": "1.1.1.1"
+    }
+]

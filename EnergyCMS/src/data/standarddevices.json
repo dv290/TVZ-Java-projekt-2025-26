@@ -1,0 +1,72 @@
+[
+    {
+        "dType": "STANDARD",
+        "deviceType": "KITCHEN_APPLIANCES",
+        "id": 1,
+        "name": "Gorenje Stednjak",
+        "on": false,
+        "powerRating": 3000,
+        "energyEfficiencyClass": "B",
+        "numberOfControlKnobs": 4
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "LAUNDRY_CLEANING",
+        "id": 2,
+        "name": "Bosch Perilica Rublja",
+        "on": false,
+        "powerRating": 2200,
+        "energyEfficiencyClass": "A",
+        "numberOfControlKnobs": 3
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "HOUSE_APPLIANCES",
+        "id": 3,
+        "name": "Pegla",
+        "on": false,
+        "powerRating": 2000,
+        "energyEfficiencyClass": "C",
+        "numberOfControlKnobs": 1
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "KITCHEN_APPLIANCES",
+        "id": 4,
+        "name": "Toster",
+        "on": false,
+        "powerRating": 800,
+        "energyEfficiencyClass": "A",
+        "numberOfControlKnobs": 2
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "HOUSE_APPLIANCES",
+        "id": 5,
+        "name": "Usisavac",
+        "on": false,
+        "powerRating": 1600,
+        "energyEfficiencyClass": "D",
+        "numberOfControlKnobs": 1
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "HOUSE_APPLIANCES",
+        "id": 12,
+        "name": "Diesel Generator",
+        "on": true,
+        "powerRating": 10000,
+        "energyEfficiencyClass": "D",
+        "numberOfControlKnobs": 3
+    },
+    {
+        "dType": "STANDARD",
+        "deviceType": "KITCHEN_APPLIANCES",
+        "id": 13,
+        "name": "Šporet",
+        "on": true,
+        "powerRating": 55,
+        "energyEfficiencyClass": "C",
+        "numberOfControlKnobs": 6
+    }
+]

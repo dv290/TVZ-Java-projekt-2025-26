@@ -1,0 +1,62 @@
+[
+    {
+        "contact": {
+            "address": "Ulica 3",
+            "email": "dino@email.com",
+            "phoneNumber": "092565781"
+        },
+        "devices": [
+        ],
+        "firstName": "Dino",
+        "id": 3,
+        "lastName": "Dinic"
+    },
+    {
+        "contact": {
+            "address": "Ulica Java 1",
+            "email": "ljubo@gmail.com",
+            "phoneNumber": "090321123"
+        },
+        "devices": [
+        ],
+        "firstName": "Ljubo",
+        "id": 6,
+        "lastName": "Ljubic"
+    },
+    {
+        "contact": {
+            "address": "Ulica 5",
+            "email": "ana@email.com",
+            "phoneNumber": "099125422"
+        },
+        "devices": [
+        ],
+        "firstName": "Ana",
+        "id": 5,
+        "lastName": "Anic"
+    },
+    {
+        "contact": {
+            "address": "Ulica 4",
+            "email": "pero@email.com",
+            "phoneNumber": "095467321"
+        },
+        "devices": [
+        ],
+        "firstName": "Pero",
+        "id": 4,
+        "lastName": "Peric"
+    },
+    {
+        "contact": {
+            "address": "Ulica 1",
+            "email": "ivan@email.com",
+            "phoneNumber": "091234567"
+        },
+        "devices": [
+        ],
+        "firstName": "Ivan",
+        "id": 1,
+        "lastName": "Ivic"
+    }
+]
